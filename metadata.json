@@ -1,0 +1,6 @@
+{
+  "name": "SpectraRadio Hosting & Billing Dashboard",
+  "description": "Professional Nigerian radio streaming hosting platform with Naira pricing, AutoDJ station management, live stream player demo, and integrated client billing dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
